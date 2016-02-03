@@ -1,0 +1,4 @@
+h1. Dutils
+
+Assorted small utility modules in the "D":https://dlang.org/ programming language.
+Copyright © 2016, Andre Polykanine A.K.A. Menelion Elensúlë. Distributed under an MIT license.
